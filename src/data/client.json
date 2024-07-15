@@ -1,15 +1,15 @@
 {
-	"name": "Code Stitch Web Designs",
-	"email": "help@codestitch.app",
-	"phoneForTel": "555-779-4407",
-	"phoneFormatted": "(555) 779-4407",
+	"name": "Mayfair Finance Australia",
+	"email": "info@mayfairfinanceaustralia.com.au",
+	"phoneForTel": "08-7222-2464",
+	"phoneFormatted": "(08) 7222 2464",
 	"address": {
-		"lineOne": "First Address Line",
-		"lineTwo": "Second Address Line",
-		"city": "Denver",
-		"state": "CO",
-		"zip": "80206",
+		"lineOne": "Adelaide Arcade, Shop 143 (Balcony Level)",
+		"lineTwo": "117 Rundle Mall",
+		"city": "Adelaide",
+		"state": "SA",
+		"zip": "5000",
 		"mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
 	},
-	"domain": "www.codestitch.app"
+	"domain": "https://mayfairfinanceaustralia.com"
 }
